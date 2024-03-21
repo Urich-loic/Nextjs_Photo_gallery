@@ -3,7 +3,6 @@ import { Photo } from '@/app/libs/Photos'
 import styles from './photocard.module.css'
 import Image from 'next/image'
 import { MdFavorite } from "react-icons/md";
-import { IconName } from "react-icons/md";
 
 export default function PhotoCard({ photo }: { photo: Photo }) {
 
