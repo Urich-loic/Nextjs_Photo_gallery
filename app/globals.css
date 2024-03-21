@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.photoCardContainer{
+  padding: 5px;
+  border-radius: 8px;
+  box-shadow: 10px 0 23px #0000001b;
+}

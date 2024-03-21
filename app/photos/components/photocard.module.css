@@ -1,0 +1,12 @@
+.cardImgStyle{
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.photoCardContainer{
+    width: 100%;
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 10px 0 23px #0000001b;
+}
