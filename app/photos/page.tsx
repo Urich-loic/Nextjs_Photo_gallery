@@ -8,7 +8,7 @@ export default function Gellery() {
    {
     <div className="py-24 min-h-100">
       <div className="container mx-auto">
-        <h1 className='text-4xl font-bold py-5'>Photos</h1>
+        <h1 className='text-6xl text-center font-bold py-7'>Photos</h1>
         <ul className='flex flex-wrap justify-around gap-5'>
         {
           photos.map((photo)=>{
