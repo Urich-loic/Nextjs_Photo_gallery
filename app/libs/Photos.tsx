@@ -70,13 +70,6 @@ export const photos: Photo[] = [
         href: '/public/assets/image-2.jpg',
         username: 'image 2',
         imgSrc: '/assets/image-2.jpg'
-    },
-    {
-        id: '10',
-        name: 'image 3',
-        href: '/public/assets/image-2.jpg',
-        username: 'image 3',
-        imgSrc: '/assets/image-2.jpg'
     }
    
 
